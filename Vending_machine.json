@@ -1,0 +1,22 @@
+{
+  "temperature": 101,
+  "credit": 0,
+  "revenue": 189,
+  "isBroken": true,
+  "slots": [
+    {
+      "id": 1,
+      "product": "Cola",
+      "price": 100,
+      "stock": 9,
+      "freshness": 75
+    },
+    {
+      "id": 2,
+      "product": "Twix",
+      "price": 89,
+      "stock": 9,
+      "freshness": 91
+    }
+  ]
+}
